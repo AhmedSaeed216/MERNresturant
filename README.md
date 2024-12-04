@@ -157,6 +157,6 @@ If you have any questions, feel free to reach out!
 
 - **Author**: Ahmed Saeed  
 - **Portfolio**: [Ahmed Saeed Portfolio](https://ahmedsaeedportfolio.netlify.app/)  
-- **Email**: your-email@example.com  
+
 
 ---
